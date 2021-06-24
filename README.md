@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @actuarialcat
 - 👀 I’m interested in actuarial science and data science
 
-Check out my projects...
+Take a look at my projects...
 
 
 <!---
